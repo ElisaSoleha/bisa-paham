@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\kalkulator sederhana\obj\Debug\net6.0\kalkulator sederhana.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\kalkulator sederhana\obj\Debug\net6.0\kalkulator sederhana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\kalkulator sederhana\obj\Debug\net6.0\kalkulator sederhana.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\kalkulator sederhana\obj\Debug\net6.0\kalkulator sederhana.AssemblyInfo.cs
+C:\Users\acer\Desktop\kalkulator sederhana\obj\Debug\net6.0\kalkulator sederhana.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\kalkulator sederhana\bin\Debug\net6.0\kalkulator sederhana.exe
+C:\Users\acer\Desktop\kalkulator sederhana\bin\Debug\net6.0\kalkulator sederhana.deps.json
+C:\Users\acer\Desktop\kalkulator sederhana\bin\Debug\net6.0\kalkulator sederhana.runtimeconfig.json
+C:\Users\acer\Desktop\kalkulator sederhana\bin\Debug\net6.0\kalkulator sederhana.dll
+C:\Users\acer\Desktop\kalkulator sederhana\bin\Debug\net6.0\kalkulator sederhana.pdb
+C:\Users\acer\Desktop\kalkulator sederhana\obj\Debug\net6.0\kalkulator sederhana.dll
+C:\Users\acer\Desktop\kalkulator sederhana\obj\Debug\net6.0\refint\kalkulator sederhana.dll
+C:\Users\acer\Desktop\kalkulator sederhana\obj\Debug\net6.0\kalkulator sederhana.pdb
+C:\Users\acer\Desktop\kalkulator sederhana\obj\Debug\net6.0\kalkulator sederhana.genruntimeconfig.cache
+C:\Users\acer\Desktop\kalkulator sederhana\obj\Debug\net6.0\ref\kalkulator sederhana.dll
