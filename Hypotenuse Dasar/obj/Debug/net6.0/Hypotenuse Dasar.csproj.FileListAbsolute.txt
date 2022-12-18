@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\Hypotenuse Dasar\bin\Debug\net6.0\Hypotenuse Dasar.exe
+C:\Users\acer\Desktop\Hypotenuse Dasar\bin\Debug\net6.0\Hypotenuse Dasar.deps.json
+C:\Users\acer\Desktop\Hypotenuse Dasar\bin\Debug\net6.0\Hypotenuse Dasar.runtimeconfig.json
+C:\Users\acer\Desktop\Hypotenuse Dasar\bin\Debug\net6.0\Hypotenuse Dasar.dll
+C:\Users\acer\Desktop\Hypotenuse Dasar\bin\Debug\net6.0\Hypotenuse Dasar.pdb
+C:\Users\acer\Desktop\Hypotenuse Dasar\obj\Debug\net6.0\Hypotenuse Dasar.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Hypotenuse Dasar\obj\Debug\net6.0\Hypotenuse Dasar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Hypotenuse Dasar\obj\Debug\net6.0\Hypotenuse Dasar.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Hypotenuse Dasar\obj\Debug\net6.0\Hypotenuse Dasar.AssemblyInfo.cs
+C:\Users\acer\Desktop\Hypotenuse Dasar\obj\Debug\net6.0\Hypotenuse Dasar.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Hypotenuse Dasar\obj\Debug\net6.0\Hypotenuse Dasar.dll
+C:\Users\acer\Desktop\Hypotenuse Dasar\obj\Debug\net6.0\refint\Hypotenuse Dasar.dll
+C:\Users\acer\Desktop\Hypotenuse Dasar\obj\Debug\net6.0\Hypotenuse Dasar.pdb
+C:\Users\acer\Desktop\Hypotenuse Dasar\obj\Debug\net6.0\Hypotenuse Dasar.genruntimeconfig.cache
+C:\Users\acer\Desktop\Hypotenuse Dasar\obj\Debug\net6.0\ref\Hypotenuse Dasar.dll

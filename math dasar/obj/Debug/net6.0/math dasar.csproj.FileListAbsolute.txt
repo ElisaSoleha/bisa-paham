@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\math dasar\bin\Debug\net6.0\math dasar.exe
+C:\Users\acer\Desktop\math dasar\bin\Debug\net6.0\math dasar.deps.json
+C:\Users\acer\Desktop\math dasar\bin\Debug\net6.0\math dasar.runtimeconfig.json
+C:\Users\acer\Desktop\math dasar\bin\Debug\net6.0\math dasar.dll
+C:\Users\acer\Desktop\math dasar\bin\Debug\net6.0\math dasar.pdb
+C:\Users\acer\Desktop\math dasar\obj\Debug\net6.0\math dasar.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\math dasar\obj\Debug\net6.0\math dasar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\math dasar\obj\Debug\net6.0\math dasar.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\math dasar\obj\Debug\net6.0\math dasar.AssemblyInfo.cs
+C:\Users\acer\Desktop\math dasar\obj\Debug\net6.0\math dasar.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\math dasar\obj\Debug\net6.0\math dasar.dll
+C:\Users\acer\Desktop\math dasar\obj\Debug\net6.0\refint\math dasar.dll
+C:\Users\acer\Desktop\math dasar\obj\Debug\net6.0\math dasar.pdb
+C:\Users\acer\Desktop\math dasar\obj\Debug\net6.0\math dasar.genruntimeconfig.cache
+C:\Users\acer\Desktop\math dasar\obj\Debug\net6.0\ref\math dasar.dll

@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\Random nomer dasar\bin\Debug\net6.0\Random nomer dasar.exe
+C:\Users\acer\Desktop\Random nomer dasar\bin\Debug\net6.0\Random nomer dasar.deps.json
+C:\Users\acer\Desktop\Random nomer dasar\bin\Debug\net6.0\Random nomer dasar.runtimeconfig.json
+C:\Users\acer\Desktop\Random nomer dasar\bin\Debug\net6.0\Random nomer dasar.dll
+C:\Users\acer\Desktop\Random nomer dasar\bin\Debug\net6.0\Random nomer dasar.pdb
+C:\Users\acer\Desktop\Random nomer dasar\obj\Debug\net6.0\Random nomer dasar.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Random nomer dasar\obj\Debug\net6.0\Random nomer dasar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Random nomer dasar\obj\Debug\net6.0\Random nomer dasar.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Random nomer dasar\obj\Debug\net6.0\Random nomer dasar.AssemblyInfo.cs
+C:\Users\acer\Desktop\Random nomer dasar\obj\Debug\net6.0\Random nomer dasar.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Random nomer dasar\obj\Debug\net6.0\Random nomer dasar.dll
+C:\Users\acer\Desktop\Random nomer dasar\obj\Debug\net6.0\refint\Random nomer dasar.dll
+C:\Users\acer\Desktop\Random nomer dasar\obj\Debug\net6.0\Random nomer dasar.pdb
+C:\Users\acer\Desktop\Random nomer dasar\obj\Debug\net6.0\Random nomer dasar.genruntimeconfig.cache
+C:\Users\acer\Desktop\Random nomer dasar\obj\Debug\net6.0\ref\Random nomer dasar.dll
