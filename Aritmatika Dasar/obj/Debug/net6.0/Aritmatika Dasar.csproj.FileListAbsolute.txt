@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\Aritmatika Dasar\bin\Debug\net6.0\Aritmatika Dasar.exe
+C:\Users\acer\Desktop\Aritmatika Dasar\bin\Debug\net6.0\Aritmatika Dasar.deps.json
+C:\Users\acer\Desktop\Aritmatika Dasar\bin\Debug\net6.0\Aritmatika Dasar.runtimeconfig.json
+C:\Users\acer\Desktop\Aritmatika Dasar\bin\Debug\net6.0\Aritmatika Dasar.dll
+C:\Users\acer\Desktop\Aritmatika Dasar\bin\Debug\net6.0\Aritmatika Dasar.pdb
+C:\Users\acer\Desktop\Aritmatika Dasar\obj\Debug\net6.0\Aritmatika Dasar.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Aritmatika Dasar\obj\Debug\net6.0\Aritmatika Dasar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Aritmatika Dasar\obj\Debug\net6.0\Aritmatika Dasar.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Aritmatika Dasar\obj\Debug\net6.0\Aritmatika Dasar.AssemblyInfo.cs
+C:\Users\acer\Desktop\Aritmatika Dasar\obj\Debug\net6.0\Aritmatika Dasar.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Aritmatika Dasar\obj\Debug\net6.0\Aritmatika Dasar.dll
+C:\Users\acer\Desktop\Aritmatika Dasar\obj\Debug\net6.0\refint\Aritmatika Dasar.dll
+C:\Users\acer\Desktop\Aritmatika Dasar\obj\Debug\net6.0\Aritmatika Dasar.pdb
+C:\Users\acer\Desktop\Aritmatika Dasar\obj\Debug\net6.0\Aritmatika Dasar.genruntimeconfig.cache
+C:\Users\acer\Desktop\Aritmatika Dasar\obj\Debug\net6.0\ref\Aritmatika Dasar.dll
