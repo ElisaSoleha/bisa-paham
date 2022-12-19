@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\string methods dasar\bin\Debug\net6.0\string methods dasar.exe
+C:\Users\acer\Desktop\string methods dasar\bin\Debug\net6.0\string methods dasar.deps.json
+C:\Users\acer\Desktop\string methods dasar\bin\Debug\net6.0\string methods dasar.runtimeconfig.json
+C:\Users\acer\Desktop\string methods dasar\bin\Debug\net6.0\string methods dasar.dll
+C:\Users\acer\Desktop\string methods dasar\bin\Debug\net6.0\string methods dasar.pdb
+C:\Users\acer\Desktop\string methods dasar\obj\Debug\net6.0\string methods dasar.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\string methods dasar\obj\Debug\net6.0\string methods dasar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\string methods dasar\obj\Debug\net6.0\string methods dasar.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\string methods dasar\obj\Debug\net6.0\string methods dasar.AssemblyInfo.cs
+C:\Users\acer\Desktop\string methods dasar\obj\Debug\net6.0\string methods dasar.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\string methods dasar\obj\Debug\net6.0\string methods dasar.dll
+C:\Users\acer\Desktop\string methods dasar\obj\Debug\net6.0\refint\string methods dasar.dll
+C:\Users\acer\Desktop\string methods dasar\obj\Debug\net6.0\string methods dasar.pdb
+C:\Users\acer\Desktop\string methods dasar\obj\Debug\net6.0\string methods dasar.genruntimeconfig.cache
+C:\Users\acer\Desktop\string methods dasar\obj\Debug\net6.0\ref\string methods dasar.dll
