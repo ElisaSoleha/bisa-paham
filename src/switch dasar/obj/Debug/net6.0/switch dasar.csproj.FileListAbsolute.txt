@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\switch dasar\bin\Debug\net6.0\switch dasar.exe
+C:\Users\acer\Desktop\switch dasar\bin\Debug\net6.0\switch dasar.deps.json
+C:\Users\acer\Desktop\switch dasar\bin\Debug\net6.0\switch dasar.runtimeconfig.json
+C:\Users\acer\Desktop\switch dasar\bin\Debug\net6.0\switch dasar.dll
+C:\Users\acer\Desktop\switch dasar\bin\Debug\net6.0\switch dasar.pdb
+C:\Users\acer\Desktop\switch dasar\obj\Debug\net6.0\switch dasar.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\switch dasar\obj\Debug\net6.0\switch dasar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\switch dasar\obj\Debug\net6.0\switch dasar.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\switch dasar\obj\Debug\net6.0\switch dasar.AssemblyInfo.cs
+C:\Users\acer\Desktop\switch dasar\obj\Debug\net6.0\switch dasar.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\switch dasar\obj\Debug\net6.0\switch dasar.dll
+C:\Users\acer\Desktop\switch dasar\obj\Debug\net6.0\refint\switch dasar.dll
+C:\Users\acer\Desktop\switch dasar\obj\Debug\net6.0\switch dasar.pdb
+C:\Users\acer\Desktop\switch dasar\obj\Debug\net6.0\switch dasar.genruntimeconfig.cache
+C:\Users\acer\Desktop\switch dasar\obj\Debug\net6.0\ref\switch dasar.dll

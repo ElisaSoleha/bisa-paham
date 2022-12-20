@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "operator logika dasar/1.0.0": {
+        "runtime": {
+          "operator logika dasar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "operator logika dasar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

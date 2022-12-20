@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\nnn\bin\Debug\net6.0\nnn.exe
+C:\Users\acer\Desktop\nnn\bin\Debug\net6.0\nnn.deps.json
+C:\Users\acer\Desktop\nnn\bin\Debug\net6.0\nnn.runtimeconfig.json
+C:\Users\acer\Desktop\nnn\bin\Debug\net6.0\nnn.dll
+C:\Users\acer\Desktop\nnn\bin\Debug\net6.0\nnn.pdb
+C:\Users\acer\Desktop\nnn\obj\Debug\net6.0\nnn.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\nnn\obj\Debug\net6.0\nnn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\nnn\obj\Debug\net6.0\nnn.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\nnn\obj\Debug\net6.0\nnn.AssemblyInfo.cs
+C:\Users\acer\Desktop\nnn\obj\Debug\net6.0\nnn.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\nnn\obj\Debug\net6.0\nnn.dll
+C:\Users\acer\Desktop\nnn\obj\Debug\net6.0\refint\nnn.dll
+C:\Users\acer\Desktop\nnn\obj\Debug\net6.0\nnn.pdb
+C:\Users\acer\Desktop\nnn\obj\Debug\net6.0\nnn.genruntimeconfig.cache
+C:\Users\acer\Desktop\nnn\obj\Debug\net6.0\ref\nnn.dll

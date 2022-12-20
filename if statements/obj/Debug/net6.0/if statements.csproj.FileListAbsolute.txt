@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\if statements\bin\Debug\net6.0\if statements.exe
+C:\Users\acer\Desktop\if statements\bin\Debug\net6.0\if statements.deps.json
+C:\Users\acer\Desktop\if statements\bin\Debug\net6.0\if statements.runtimeconfig.json
+C:\Users\acer\Desktop\if statements\bin\Debug\net6.0\if statements.dll
+C:\Users\acer\Desktop\if statements\bin\Debug\net6.0\if statements.pdb
+C:\Users\acer\Desktop\if statements\obj\Debug\net6.0\if statements.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\if statements\obj\Debug\net6.0\if statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\if statements\obj\Debug\net6.0\if statements.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\if statements\obj\Debug\net6.0\if statements.AssemblyInfo.cs
+C:\Users\acer\Desktop\if statements\obj\Debug\net6.0\if statements.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\if statements\obj\Debug\net6.0\if statements.dll
+C:\Users\acer\Desktop\if statements\obj\Debug\net6.0\refint\if statements.dll
+C:\Users\acer\Desktop\if statements\obj\Debug\net6.0\if statements.pdb
+C:\Users\acer\Desktop\if statements\obj\Debug\net6.0\if statements.genruntimeconfig.cache
+C:\Users\acer\Desktop\if statements\obj\Debug\net6.0\ref\if statements.dll

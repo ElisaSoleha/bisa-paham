@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\operator logika dasar\bin\Debug\net6.0\operator logika dasar.exe
+C:\Users\acer\Desktop\operator logika dasar\bin\Debug\net6.0\operator logika dasar.deps.json
+C:\Users\acer\Desktop\operator logika dasar\bin\Debug\net6.0\operator logika dasar.runtimeconfig.json
+C:\Users\acer\Desktop\operator logika dasar\bin\Debug\net6.0\operator logika dasar.dll
+C:\Users\acer\Desktop\operator logika dasar\bin\Debug\net6.0\operator logika dasar.pdb
+C:\Users\acer\Desktop\operator logika dasar\obj\Debug\net6.0\operator logika dasar.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\operator logika dasar\obj\Debug\net6.0\operator logika dasar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\operator logika dasar\obj\Debug\net6.0\operator logika dasar.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\operator logika dasar\obj\Debug\net6.0\operator logika dasar.AssemblyInfo.cs
+C:\Users\acer\Desktop\operator logika dasar\obj\Debug\net6.0\operator logika dasar.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\operator logika dasar\obj\Debug\net6.0\operator logika dasar.dll
+C:\Users\acer\Desktop\operator logika dasar\obj\Debug\net6.0\refint\operator logika dasar.dll
+C:\Users\acer\Desktop\operator logika dasar\obj\Debug\net6.0\operator logika dasar.pdb
+C:\Users\acer\Desktop\operator logika dasar\obj\Debug\net6.0\operator logika dasar.genruntimeconfig.cache
+C:\Users\acer\Desktop\operator logika dasar\obj\Debug\net6.0\ref\operator logika dasar.dll

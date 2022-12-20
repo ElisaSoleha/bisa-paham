@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\while loop dasar\bin\Debug\net6.0\while loop dasar.exe
+C:\Users\acer\Desktop\while loop dasar\bin\Debug\net6.0\while loop dasar.deps.json
+C:\Users\acer\Desktop\while loop dasar\bin\Debug\net6.0\while loop dasar.runtimeconfig.json
+C:\Users\acer\Desktop\while loop dasar\bin\Debug\net6.0\while loop dasar.dll
+C:\Users\acer\Desktop\while loop dasar\bin\Debug\net6.0\while loop dasar.pdb
+C:\Users\acer\Desktop\while loop dasar\obj\Debug\net6.0\while loop dasar.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\while loop dasar\obj\Debug\net6.0\while loop dasar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\while loop dasar\obj\Debug\net6.0\while loop dasar.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\while loop dasar\obj\Debug\net6.0\while loop dasar.AssemblyInfo.cs
+C:\Users\acer\Desktop\while loop dasar\obj\Debug\net6.0\while loop dasar.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\while loop dasar\obj\Debug\net6.0\while loop dasar.dll
+C:\Users\acer\Desktop\while loop dasar\obj\Debug\net6.0\refint\while loop dasar.dll
+C:\Users\acer\Desktop\while loop dasar\obj\Debug\net6.0\while loop dasar.pdb
+C:\Users\acer\Desktop\while loop dasar\obj\Debug\net6.0\while loop dasar.genruntimeconfig.cache
+C:\Users\acer\Desktop\while loop dasar\obj\Debug\net6.0\ref\while loop dasar.dll

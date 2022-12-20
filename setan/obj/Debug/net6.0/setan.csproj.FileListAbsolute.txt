@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\setan\bin\Debug\net6.0\setan.exe
+C:\Users\acer\Desktop\setan\bin\Debug\net6.0\setan.deps.json
+C:\Users\acer\Desktop\setan\bin\Debug\net6.0\setan.runtimeconfig.json
+C:\Users\acer\Desktop\setan\bin\Debug\net6.0\setan.dll
+C:\Users\acer\Desktop\setan\bin\Debug\net6.0\setan.pdb
+C:\Users\acer\Desktop\setan\obj\Debug\net6.0\setan.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\setan\obj\Debug\net6.0\setan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\setan\obj\Debug\net6.0\setan.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\setan\obj\Debug\net6.0\setan.AssemblyInfo.cs
+C:\Users\acer\Desktop\setan\obj\Debug\net6.0\setan.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\setan\obj\Debug\net6.0\setan.dll
+C:\Users\acer\Desktop\setan\obj\Debug\net6.0\refint\setan.dll
+C:\Users\acer\Desktop\setan\obj\Debug\net6.0\setan.pdb
+C:\Users\acer\Desktop\setan\obj\Debug\net6.0\setan.genruntimeconfig.cache
+C:\Users\acer\Desktop\setan\obj\Debug\net6.0\ref\setan.dll
