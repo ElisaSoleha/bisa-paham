@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\Loop bercabang dasar\obj\Debug\net6.0\Loop bercabang dasar.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Loop bercabang dasar\obj\Debug\net6.0\Loop bercabang dasar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Loop bercabang dasar\obj\Debug\net6.0\Loop bercabang dasar.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Loop bercabang dasar\obj\Debug\net6.0\Loop bercabang dasar.AssemblyInfo.cs
+C:\Users\acer\Desktop\Loop bercabang dasar\obj\Debug\net6.0\Loop bercabang dasar.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Loop bercabang dasar\bin\Debug\net6.0\Loop bercabang dasar.exe
+C:\Users\acer\Desktop\Loop bercabang dasar\bin\Debug\net6.0\Loop bercabang dasar.deps.json
+C:\Users\acer\Desktop\Loop bercabang dasar\bin\Debug\net6.0\Loop bercabang dasar.runtimeconfig.json
+C:\Users\acer\Desktop\Loop bercabang dasar\bin\Debug\net6.0\Loop bercabang dasar.dll
+C:\Users\acer\Desktop\Loop bercabang dasar\bin\Debug\net6.0\Loop bercabang dasar.pdb
+C:\Users\acer\Desktop\Loop bercabang dasar\obj\Debug\net6.0\Loop bercabang dasar.dll
+C:\Users\acer\Desktop\Loop bercabang dasar\obj\Debug\net6.0\refint\Loop bercabang dasar.dll
+C:\Users\acer\Desktop\Loop bercabang dasar\obj\Debug\net6.0\Loop bercabang dasar.pdb
+C:\Users\acer\Desktop\Loop bercabang dasar\obj\Debug\net6.0\Loop bercabang dasar.genruntimeconfig.cache
+C:\Users\acer\Desktop\Loop bercabang dasar\obj\Debug\net6.0\ref\Loop bercabang dasar.dll
