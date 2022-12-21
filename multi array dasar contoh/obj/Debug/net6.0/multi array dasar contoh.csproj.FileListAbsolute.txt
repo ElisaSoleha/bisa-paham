@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\multi array dasar contoh\bin\Debug\net6.0\multi array dasar contoh.exe
+C:\Users\acer\Desktop\multi array dasar contoh\bin\Debug\net6.0\multi array dasar contoh.deps.json
+C:\Users\acer\Desktop\multi array dasar contoh\bin\Debug\net6.0\multi array dasar contoh.runtimeconfig.json
+C:\Users\acer\Desktop\multi array dasar contoh\bin\Debug\net6.0\multi array dasar contoh.dll
+C:\Users\acer\Desktop\multi array dasar contoh\bin\Debug\net6.0\multi array dasar contoh.pdb
+C:\Users\acer\Desktop\multi array dasar contoh\obj\Debug\net6.0\multi array dasar contoh.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\multi array dasar contoh\obj\Debug\net6.0\multi array dasar contoh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\multi array dasar contoh\obj\Debug\net6.0\multi array dasar contoh.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\multi array dasar contoh\obj\Debug\net6.0\multi array dasar contoh.AssemblyInfo.cs
+C:\Users\acer\Desktop\multi array dasar contoh\obj\Debug\net6.0\multi array dasar contoh.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\multi array dasar contoh\obj\Debug\net6.0\multi array dasar contoh.dll
+C:\Users\acer\Desktop\multi array dasar contoh\obj\Debug\net6.0\refint\multi array dasar contoh.dll
+C:\Users\acer\Desktop\multi array dasar contoh\obj\Debug\net6.0\multi array dasar contoh.pdb
+C:\Users\acer\Desktop\multi array dasar contoh\obj\Debug\net6.0\multi array dasar contoh.genruntimeconfig.cache
+C:\Users\acer\Desktop\multi array dasar contoh\obj\Debug\net6.0\ref\multi array dasar contoh.dll

@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\Contoh foreach loop dasar\bin\Debug\net6.0\Contoh foreach loop dasar.exe
+C:\Users\acer\Desktop\Contoh foreach loop dasar\bin\Debug\net6.0\Contoh foreach loop dasar.deps.json
+C:\Users\acer\Desktop\Contoh foreach loop dasar\bin\Debug\net6.0\Contoh foreach loop dasar.runtimeconfig.json
+C:\Users\acer\Desktop\Contoh foreach loop dasar\bin\Debug\net6.0\Contoh foreach loop dasar.dll
+C:\Users\acer\Desktop\Contoh foreach loop dasar\bin\Debug\net6.0\Contoh foreach loop dasar.pdb
+C:\Users\acer\Desktop\Contoh foreach loop dasar\obj\Debug\net6.0\Contoh foreach loop dasar.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Contoh foreach loop dasar\obj\Debug\net6.0\Contoh foreach loop dasar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Contoh foreach loop dasar\obj\Debug\net6.0\Contoh foreach loop dasar.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Contoh foreach loop dasar\obj\Debug\net6.0\Contoh foreach loop dasar.AssemblyInfo.cs
+C:\Users\acer\Desktop\Contoh foreach loop dasar\obj\Debug\net6.0\Contoh foreach loop dasar.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Contoh foreach loop dasar\obj\Debug\net6.0\Contoh foreach loop dasar.dll
+C:\Users\acer\Desktop\Contoh foreach loop dasar\obj\Debug\net6.0\refint\Contoh foreach loop dasar.dll
+C:\Users\acer\Desktop\Contoh foreach loop dasar\obj\Debug\net6.0\Contoh foreach loop dasar.pdb
+C:\Users\acer\Desktop\Contoh foreach loop dasar\obj\Debug\net6.0\Contoh foreach loop dasar.genruntimeconfig.cache
+C:\Users\acer\Desktop\Contoh foreach loop dasar\obj\Debug\net6.0\ref\Contoh foreach loop dasar.dll

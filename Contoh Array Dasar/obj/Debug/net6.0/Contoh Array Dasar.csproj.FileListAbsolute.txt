@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\Contoh Array Dasar\bin\Debug\net6.0\Contoh Array Dasar.exe
+C:\Users\acer\Desktop\Contoh Array Dasar\bin\Debug\net6.0\Contoh Array Dasar.deps.json
+C:\Users\acer\Desktop\Contoh Array Dasar\bin\Debug\net6.0\Contoh Array Dasar.runtimeconfig.json
+C:\Users\acer\Desktop\Contoh Array Dasar\bin\Debug\net6.0\Contoh Array Dasar.dll
+C:\Users\acer\Desktop\Contoh Array Dasar\bin\Debug\net6.0\Contoh Array Dasar.pdb
+C:\Users\acer\Desktop\Contoh Array Dasar\obj\Debug\net6.0\Contoh Array Dasar.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Contoh Array Dasar\obj\Debug\net6.0\Contoh Array Dasar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Contoh Array Dasar\obj\Debug\net6.0\Contoh Array Dasar.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Contoh Array Dasar\obj\Debug\net6.0\Contoh Array Dasar.AssemblyInfo.cs
+C:\Users\acer\Desktop\Contoh Array Dasar\obj\Debug\net6.0\Contoh Array Dasar.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Contoh Array Dasar\obj\Debug\net6.0\Contoh Array Dasar.dll
+C:\Users\acer\Desktop\Contoh Array Dasar\obj\Debug\net6.0\refint\Contoh Array Dasar.dll
+C:\Users\acer\Desktop\Contoh Array Dasar\obj\Debug\net6.0\Contoh Array Dasar.pdb
+C:\Users\acer\Desktop\Contoh Array Dasar\obj\Debug\net6.0\Contoh Array Dasar.genruntimeconfig.cache
+C:\Users\acer\Desktop\Contoh Array Dasar\obj\Debug\net6.0\ref\Contoh Array Dasar.dll

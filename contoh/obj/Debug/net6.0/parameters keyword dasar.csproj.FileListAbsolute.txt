@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\parameters keyword dasar\bin\Debug\net6.0\parameters keyword dasar.exe
+C:\Users\acer\Desktop\parameters keyword dasar\bin\Debug\net6.0\parameters keyword dasar.deps.json
+C:\Users\acer\Desktop\parameters keyword dasar\bin\Debug\net6.0\parameters keyword dasar.runtimeconfig.json
+C:\Users\acer\Desktop\parameters keyword dasar\bin\Debug\net6.0\parameters keyword dasar.dll
+C:\Users\acer\Desktop\parameters keyword dasar\bin\Debug\net6.0\parameters keyword dasar.pdb
+C:\Users\acer\Desktop\parameters keyword dasar\obj\Debug\net6.0\parameters keyword dasar.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\parameters keyword dasar\obj\Debug\net6.0\parameters keyword dasar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\parameters keyword dasar\obj\Debug\net6.0\parameters keyword dasar.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\parameters keyword dasar\obj\Debug\net6.0\parameters keyword dasar.AssemblyInfo.cs
+C:\Users\acer\Desktop\parameters keyword dasar\obj\Debug\net6.0\parameters keyword dasar.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\parameters keyword dasar\obj\Debug\net6.0\parameters keyword dasar.dll
+C:\Users\acer\Desktop\parameters keyword dasar\obj\Debug\net6.0\refint\parameters keyword dasar.dll
+C:\Users\acer\Desktop\parameters keyword dasar\obj\Debug\net6.0\parameters keyword dasar.pdb
+C:\Users\acer\Desktop\parameters keyword dasar\obj\Debug\net6.0\parameters keyword dasar.genruntimeconfig.cache
+C:\Users\acer\Desktop\parameters keyword dasar\obj\Debug\net6.0\ref\parameters keyword dasar.dll

@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\string interpolatin dasar\bin\Debug\net6.0\string interpolatin dasar.exe
+C:\Users\acer\Desktop\string interpolatin dasar\bin\Debug\net6.0\string interpolatin dasar.deps.json
+C:\Users\acer\Desktop\string interpolatin dasar\bin\Debug\net6.0\string interpolatin dasar.runtimeconfig.json
+C:\Users\acer\Desktop\string interpolatin dasar\bin\Debug\net6.0\string interpolatin dasar.dll
+C:\Users\acer\Desktop\string interpolatin dasar\bin\Debug\net6.0\string interpolatin dasar.pdb
+C:\Users\acer\Desktop\string interpolatin dasar\obj\Debug\net6.0\string interpolatin dasar.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\string interpolatin dasar\obj\Debug\net6.0\string interpolatin dasar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\string interpolatin dasar\obj\Debug\net6.0\string interpolatin dasar.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\string interpolatin dasar\obj\Debug\net6.0\string interpolatin dasar.AssemblyInfo.cs
+C:\Users\acer\Desktop\string interpolatin dasar\obj\Debug\net6.0\string interpolatin dasar.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\string interpolatin dasar\obj\Debug\net6.0\string interpolatin dasar.dll
+C:\Users\acer\Desktop\string interpolatin dasar\obj\Debug\net6.0\refint\string interpolatin dasar.dll
+C:\Users\acer\Desktop\string interpolatin dasar\obj\Debug\net6.0\string interpolatin dasar.pdb
+C:\Users\acer\Desktop\string interpolatin dasar\obj\Debug\net6.0\string interpolatin dasar.genruntimeconfig.cache
+C:\Users\acer\Desktop\string interpolatin dasar\obj\Debug\net6.0\ref\string interpolatin dasar.dll

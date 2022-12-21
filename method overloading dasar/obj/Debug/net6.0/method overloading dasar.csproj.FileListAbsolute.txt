@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\method overloading dasar\bin\Debug\net6.0\method overloading dasar.exe
+C:\Users\acer\Desktop\method overloading dasar\bin\Debug\net6.0\method overloading dasar.deps.json
+C:\Users\acer\Desktop\method overloading dasar\bin\Debug\net6.0\method overloading dasar.runtimeconfig.json
+C:\Users\acer\Desktop\method overloading dasar\bin\Debug\net6.0\method overloading dasar.dll
+C:\Users\acer\Desktop\method overloading dasar\bin\Debug\net6.0\method overloading dasar.pdb
+C:\Users\acer\Desktop\method overloading dasar\obj\Debug\net6.0\method overloading dasar.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\method overloading dasar\obj\Debug\net6.0\method overloading dasar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\method overloading dasar\obj\Debug\net6.0\method overloading dasar.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\method overloading dasar\obj\Debug\net6.0\method overloading dasar.AssemblyInfo.cs
+C:\Users\acer\Desktop\method overloading dasar\obj\Debug\net6.0\method overloading dasar.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\method overloading dasar\obj\Debug\net6.0\method overloading dasar.dll
+C:\Users\acer\Desktop\method overloading dasar\obj\Debug\net6.0\refint\method overloading dasar.dll
+C:\Users\acer\Desktop\method overloading dasar\obj\Debug\net6.0\method overloading dasar.pdb
+C:\Users\acer\Desktop\method overloading dasar\obj\Debug\net6.0\method overloading dasar.genruntimeconfig.cache
+C:\Users\acer\Desktop\method overloading dasar\obj\Debug\net6.0\ref\method overloading dasar.dll
