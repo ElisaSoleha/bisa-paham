@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\TRY\bin\Debug\net6.0\TRY.exe
+C:\Users\acer\Desktop\TRY\bin\Debug\net6.0\TRY.deps.json
+C:\Users\acer\Desktop\TRY\bin\Debug\net6.0\TRY.runtimeconfig.json
+C:\Users\acer\Desktop\TRY\bin\Debug\net6.0\TRY.dll
+C:\Users\acer\Desktop\TRY\bin\Debug\net6.0\TRY.pdb
+C:\Users\acer\Desktop\TRY\obj\Debug\net6.0\TRY.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\TRY\obj\Debug\net6.0\TRY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\TRY\obj\Debug\net6.0\TRY.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\TRY\obj\Debug\net6.0\TRY.AssemblyInfo.cs
+C:\Users\acer\Desktop\TRY\obj\Debug\net6.0\TRY.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\TRY\obj\Debug\net6.0\TRY.dll
+C:\Users\acer\Desktop\TRY\obj\Debug\net6.0\refint\TRY.dll
+C:\Users\acer\Desktop\TRY\obj\Debug\net6.0\TRY.pdb
+C:\Users\acer\Desktop\TRY\obj\Debug\net6.0\TRY.genruntimeconfig.cache
+C:\Users\acer\Desktop\TRY\obj\Debug\net6.0\ref\TRY.dll
