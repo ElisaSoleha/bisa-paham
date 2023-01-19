@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\keren\bin\Debug\net6.0\keren.exe
+C:\Users\acer\Desktop\keren\bin\Debug\net6.0\keren.deps.json
+C:\Users\acer\Desktop\keren\bin\Debug\net6.0\keren.runtimeconfig.json
+C:\Users\acer\Desktop\keren\bin\Debug\net6.0\keren.dll
+C:\Users\acer\Desktop\keren\bin\Debug\net6.0\keren.pdb
+C:\Users\acer\Desktop\keren\obj\Debug\net6.0\keren.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\keren\obj\Debug\net6.0\keren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\keren\obj\Debug\net6.0\keren.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\keren\obj\Debug\net6.0\keren.AssemblyInfo.cs
+C:\Users\acer\Desktop\keren\obj\Debug\net6.0\keren.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\keren\obj\Debug\net6.0\keren.dll
+C:\Users\acer\Desktop\keren\obj\Debug\net6.0\refint\keren.dll
+C:\Users\acer\Desktop\keren\obj\Debug\net6.0\keren.pdb
+C:\Users\acer\Desktop\keren\obj\Debug\net6.0\keren.genruntimeconfig.cache
+C:\Users\acer\Desktop\keren\obj\Debug\net6.0\ref\keren.dll
