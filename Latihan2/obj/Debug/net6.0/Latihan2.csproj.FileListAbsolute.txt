@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\Latihan2\bin\Debug\net6.0\Latihan2.exe
+C:\Users\acer\Desktop\Latihan2\bin\Debug\net6.0\Latihan2.deps.json
+C:\Users\acer\Desktop\Latihan2\bin\Debug\net6.0\Latihan2.runtimeconfig.json
+C:\Users\acer\Desktop\Latihan2\bin\Debug\net6.0\Latihan2.dll
+C:\Users\acer\Desktop\Latihan2\bin\Debug\net6.0\Latihan2.pdb
+C:\Users\acer\Desktop\Latihan2\obj\Debug\net6.0\Latihan2.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Latihan2\obj\Debug\net6.0\Latihan2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Latihan2\obj\Debug\net6.0\Latihan2.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Latihan2\obj\Debug\net6.0\Latihan2.AssemblyInfo.cs
+C:\Users\acer\Desktop\Latihan2\obj\Debug\net6.0\Latihan2.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Latihan2\obj\Debug\net6.0\Latihan2.dll
+C:\Users\acer\Desktop\Latihan2\obj\Debug\net6.0\refint\Latihan2.dll
+C:\Users\acer\Desktop\Latihan2\obj\Debug\net6.0\Latihan2.pdb
+C:\Users\acer\Desktop\Latihan2\obj\Debug\net6.0\Latihan2.genruntimeconfig.cache
+C:\Users\acer\Desktop\Latihan2\obj\Debug\net6.0\ref\Latihan2.dll
